@@ -1,6 +1,8 @@
 # Conways-Game-Of-Life
 # Conways-Game-Of-Life
 
+This assignment was written and assignment by Professor Kevin Lundeen at Seattle University.
+
 Your assignment is to write a simple version of the game. From a given starting world, it will animate the generations. It will also allow worlds to be created on the console, saved from the current world, and loaded from previously saved worlds or other text files.
 
 Your program must use a 2-D dynamically allocated array of chars to represent the world. A living cell is an asterisk and a dead cell is a blank. Your world should be the size of the input world (the examples are various sizes). The size (number of rows and number of columns) should be stored as data fields in your World class.
